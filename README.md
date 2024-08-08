@@ -1,4 +1,5 @@
 Description:
+<br>
 The HTML Minifier plugin is designed to optimize and minify HTML output on your WordPress site. This helps in reducing the page size by removing unnecessary whitespace, comments, and line breaks, which can improve the page load speed and overall performance.
 
 Features
